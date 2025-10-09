@@ -5,7 +5,7 @@ I'm an aspiring AI Engineer, Backend Developer, and Innovator, passionate about 
 - 🎓 **Studying:** B.Tech in Artificial Intelligence & Data Science (3rd Year).
 - 💡 **Interests:** Backend Development, Generative AI, Data Science, and Web Technologies.
 - 🧠 **Strengths:** Critical Thinking, Problem Solving, and a passion for continuous learning.
-- 🌍 **Career Focus:** Seeking opportunities in the USA 🇺🇸, UK 🇬🇧, or Australia 🇦🇺.
+- 🌍 **Career Focus:** Seeking opportunities in the USA 🇺🇸, UK 🇬🇧, and Australia 🇦🇺.
 
 ---
 
