@@ -15,28 +15,28 @@
 <!-- prettier-ignore-start -->
 <!-- MARKDOWN VARIABLES -->
 [//]: # (USERNAME: VEERAKARTHICK235)
-[//]: # (THEME: white)
+[//]: # (THEME: tokyonight)
 <!-- prettier-ignore-end -->
 
 <!-- =========================================================== -->
 
 # 👋 Hi, I'm KARTHICKKUMAR S 🚀  
-### *Aspiring AI Engineer | Backend Developer | Innovator*
+### Aspiring AI Engineer | Backend Developer | Innovator
 
-I'm passionate about building impactful AI solutions that address **real-world problems**.  
-Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)** and continuously expanding my technical and analytical skills.
+I'm passionate about building impactful AI solutions that address *real-world problems*.  
+Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)* and continuously expanding my technical and analytical skills.
 
 ---
 
 ### 🎯 Quick Facts
-- 🎓 **Education:** B.Tech — Artificial Intelligence & Data Science  
-- 💡 **Interests:** Backend Development, Generative AI, Web Technologies, Data Science  
-- 🧠 **Strengths:** Critical Thinking, Problem Solving, Continuous Learning  
-- 🌍 **Career Goal:** Build and work on AI-driven innovations globally (USA 🇺🇸 | UK 🇬🇧 | Australia 🇦🇺)
+- 🎓 *Education:* B.Tech — Artificial Intelligence & Data Science  
+- 💡 *Interests:* Backend Development, Generative AI, Web Technologies, Data Science  
+- 🧠 *Strengths:* Critical Thinking, Problem Solving, Continuous Learning  
+- 🌍 *Career Goal:* Build and work on AI-driven innovations globally (USA 🇺🇸 | UK 🇬🇧 | Australia 🇦🇺)
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠 Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -55,19 +55,19 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)
 
 ### 🚀 Featured Projects
 
-- 🩸 **AI Blood** – Thalassemia donor–patient matching mobile app.  
-- 📚 **AI Learning Platform** – E-learning with AI-based recommendations.  
-- 📞 **Live Call Transcription** – Real-time call transcription using Twilio + AssemblyAI.  
-- 🤖 **Offline Code Agent** – Local AI code generator (no internet needed).  
-- 🧠 **Clarity AI** – Mental health + productivity analytics system.
+- 🩸 *AI Blood* – Thalassemia donor–patient matching mobile app.  
+- 📚 *AI Learning Platform* – E-learning with AI-based recommendations.  
+- 📞 *Live Call Transcription* – Real-time call transcription using Twilio + AssemblyAI.  
+- 🤖 *Offline Code Agent* – Local AI code generator (no internet needed).  
+- 🧠 *Clarity AI* – Mental health + productivity analytics system.
 
 ---
 
 ### 📊 GitHub Stats (Unified Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&count_private=true&theme=white&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=white&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)
 ### 🔥 Current & Longest Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VEERAKARTHICK235&theme=white&hide_border=true&date_format=%5BY%20%5DM%20j" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VEERAKARTHICK235&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" width="80%" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VEERAKARTHICK235&theme=white&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VEERAKARTHICK235&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)
 ### 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEERAKARTHICK235&theme=white&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEERAKARTHICK235&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -121,4 +121,3 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)
 ---
 
 > 💬 “Code Locally, Impact Globally.” 🌐
-
