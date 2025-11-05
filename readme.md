@@ -15,7 +15,7 @@
 <!-- prettier-ignore-start -->
 <!-- MARKDOWN VARIABLES -->
 [//]: # (USERNAME: VEERAKARTHICK235)
-[//]: # (THEME: tokyonight)
+[//]: # (THEME: white)
 <!-- prettier-ignore-end -->
 
 <!-- =========================================================== -->
@@ -66,8 +66,8 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)
 ### 📊 GitHub Stats (Unified Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&count_private=true&theme=white&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=white&hide_border=true" width="41%" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)
 ### 🔥 Current & Longest Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VEERAKARTHICK235&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VEERAKARTHICK235&theme=white&hide_border=true&date_format=%5BY%20%5DM%20j" width="80%" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VEERAKARTHICK235&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VEERAKARTHICK235&theme=white&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science (3rd Year)
 ### 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEERAKARTHICK235&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEERAKARTHICK235&theme=white&hide_border=true&area=true" />
 </p>
 
 ---
