@@ -75,7 +75,7 @@ Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)*
 ### 🔥 Current & Longest Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VEERAKARTHICK235&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?user=VEERAKARTHICK235&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" width="80%" />
 </p>
 
 ---
