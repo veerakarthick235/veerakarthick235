@@ -66,8 +66,8 @@ Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)*
 ### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veerakarthick235&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerakarthick235&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)*
 ### 🔥 Current & Longest Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VEERAKARTHICK235&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=veerakarthick235&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" width="80%" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)*
 ### 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEERAKARTHICK235&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veerakarthick235&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)*
 ### 👀 Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VEERAKARTHICK235&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=veerakarthick235&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
