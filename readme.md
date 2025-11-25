@@ -110,7 +110,7 @@ Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)*
   <a href="https://www.linkedin.com/in/karthickkumar-s-b04a10348" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://karthick.site" target="_blank">
+  <a href="https://veerakarthick.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:veerakarthick235@gmail.com">
