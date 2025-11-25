@@ -63,7 +63,7 @@ Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)*
 
 ---
 
-### 📊 GitHub Stats (Unified Theme)
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
