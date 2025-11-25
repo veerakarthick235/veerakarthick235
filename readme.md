@@ -9,12 +9,12 @@
 
 <!-- 🧩 CONFIG SECTION -->
 <!-- Update these two values only -->
-<!-- Example: USERNAME = VEERAKARTHICK235 | THEME = tokyonight -->
+<!-- Example: USERNAME = veerakarthick235 | THEME = tokyonight -->
 <!-- Available themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- =========================================================== -->
 <!-- prettier-ignore-start -->
 <!-- MARKDOWN VARIABLES -->
-[//]: # (USERNAME: VEERAKARTHICK235)
+[//]: # (USERNAME: veerakarthick235)
 [//]: # (THEME: tokyonight)
 <!-- prettier-ignore-end -->
 
