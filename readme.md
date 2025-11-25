@@ -47,7 +47,7 @@ Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)*
 
 <p align="center">
   <img src="https://veerakarthick235.vercel.app/api?username=veerakarthick235&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://veerakarthick235.vercel.app/api/top-langs/?username=veerakarthick235&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerakarthick235&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
 ---
