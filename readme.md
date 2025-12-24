@@ -1,4 +1,4 @@
-[//]: # (USERNAME: VEERAKARTHICK235)
+[//]: # (USERNAME: veerakarthick235)
 [//]: # (THEME: tokyonight)
 # 👋 Hi, I'm KARTHICKKUMAR S 🚀
 ### Aspiring AI Engineer | Backend Developer | Innovator
