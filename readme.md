@@ -1,7 +1,7 @@
 [//]: # (USERNAME: veerakarthick235)
 [//]: # (THEME: tokyonight)
 # 👋 Hi, I'm KARTHICKKUMAR S 🚀
-### Aspiring AI Engineer | Backend Developer | Innovator
+### AI Developer
 
 I'm passionate about building impactful **AI solutions** that address *real-world problems*.
 Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)* and continuously expanding my technical and analytical skills.
