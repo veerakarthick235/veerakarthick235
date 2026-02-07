@@ -64,16 +64,23 @@
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-
 ### 🚀 Featured Projects
 
-- 🩸 **AI Blood** – Thalassemia donor–patient matching mobile app.
-- 📚 **AI Learning Platform** – E-learning with AI-based recommendations.
-- 📞 **Live Call Transcription** – Real-time call transcription using Twilio + AssemblyAI.
-- 🤖 **Offline Code Agent** – Local AI code generator (no internet needed).
-- 🧠 **Clarity AI** – Mental health + productivity analytics system.
+- 🏛️ **Code Archeologist — Agentic Legacy Modernization System**  
+  https://github.com/veerakarthick235/Code-Archeologist  
 
----
+- 🔍 **RAG Research App — Retrieval-Augmented Generation Playground**  
+  https://github.com/veerakarthick235/Rag-Research-App  
+
+- 🤖 **Offline Code Agent — Local LLM-Based Code Assistant**  
+  https://github.com/veerakarthick235/Offline_Code_Agent  
+
+- 🧠 **NeuroSense AI — Emotion & Productivity Analytics System**  
+  https://github.com/veerakarthick235/NeuroSense-AI  
+
+- 🎬 **AI Storyboard Director — Gemini-Powered Film Blueprint Generator**  
+  https://github.com/veerakarthick235/AI-Storyboard-Director  
+
 
 ### 📊 GitHub Stats
 
