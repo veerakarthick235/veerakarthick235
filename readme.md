@@ -67,13 +67,9 @@
 ### 🚀 Featured Projects
 
 - 🏛️ **Code Archeologist — Agentic Legacy Modernization System**    
-
 - 🔍 **RAG Research App — Retrieval-Augmented Generation Playground**   
-
 - 🤖 **Offline Code Agent — Local LLM-Based Code Assistant**   
-
 - 🧠 **NeuroSense AI — Emotion & Productivity Analytics System**  
-
 - 🎬 **AI Storyboard Director — AI-Powered Film Blueprint Generator**  
 
 
