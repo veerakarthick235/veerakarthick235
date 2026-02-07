@@ -32,8 +32,6 @@ Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)*
   <img src="https://img.shields.io/badge/LLM%20APIs-0052CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00A86B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Embeddings-00B4D8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-FFB000?style=for-the-badge" />
 </p>
 
 ### 🧰 Frameworks & Libraries
