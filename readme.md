@@ -66,20 +66,15 @@
 
 ### 🚀 Featured Projects
 
-- 🏛️ **Code Archeologist — Agentic Legacy Modernization System**  
-  https://github.com/veerakarthick235/Code-Archeologist  
+- 🏛️ **Code Archeologist — Agentic Legacy Modernization System**    
 
-- 🔍 **RAG Research App — Retrieval-Augmented Generation Playground**  
-  https://github.com/veerakarthick235/Rag-Research-App  
+- 🔍 **RAG Research App — Retrieval-Augmented Generation Playground**   
 
-- 🤖 **Offline Code Agent — Local LLM-Based Code Assistant**  
-  https://github.com/veerakarthick235/Offline_Code_Agent  
+- 🤖 **Offline Code Agent — Local LLM-Based Code Assistant**   
 
 - 🧠 **NeuroSense AI — Emotion & Productivity Analytics System**  
-  https://github.com/veerakarthick235/NeuroSense-AI  
 
-- 🎬 **AI Storyboard Director — Gemini-Powered Film Blueprint Generator**  
-  https://github.com/veerakarthick235/AI-Storyboard-Director  
+- 🎬 **AI Storyboard Director — AI-Powered Film Blueprint Generator**  
 
 
 ### 📊 GitHub Stats
