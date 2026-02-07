@@ -1,11 +1,9 @@
 [//]: # (USERNAME: veerakarthick235)
 [//]: # (THEME: tokyonight)
 # 👋 Hi, I'm KARTHICKKUMAR S 🚀
-### AI Developer | Innovator |
+### AI Developer | Innovator | Prompt Engineer
 
-I'm passionate about building impactful **AI solutions** that address *real-world problems*.
-Currently pursuing *B.Tech in Artificial Intelligence & Data Science (3rd Year)* and continuously expanding my technical and analytical skills.
-
+> AI Developer building Agentic AI and RAG systems using LLMs, FastAPI, and Next.js.
 ---
 
 ### 🎯 Quick Facts
