@@ -3,7 +3,7 @@
 # 👋 Hi, I'm KARTHICKKUMAR S 🚀
 ### AI Developer | Innovator | Prompt Engineer
 
-> AI Developer building Agentic AI and RAG systems using LLMs, FastAPI, and Next.js.
+AI Developer building Agentic AI and RAG systems using LLMs, FastAPI, and Next.js.
 ---
 
 ### 🎯 Quick Facts
