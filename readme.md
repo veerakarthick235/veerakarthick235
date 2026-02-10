@@ -94,7 +94,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veerakarthick235&theme=tokyonight&no-frame=true&row=1&column=5&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veerakarthick235&show_icons=true&theme=tokyonight" />
 
 </p>
 
