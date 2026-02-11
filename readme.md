@@ -1,9 +1,9 @@
 [//]: # (USERNAME: veerakarthick235)
 [//]: # (THEME: tokyonight)
 # 👋 Hi, I'm KARTHICKKUMAR S 🚀
-### AI Developer | Innovator | Prompt Engineer
+### AI Engineer
 
- - AI Developer building Agentic AI and RAG systems using LLMs, FastAPI, and Next.js.
+ - AI Engineer building Agentic AI and RAG systems using LLMs, FastAPI, and Next.js.
 ---
 
 ### 🎯 Quick Facts
@@ -20,7 +20,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /
 </p>
 
 ### 🤖 GenAI & AI Engineering
@@ -42,7 +41,6 @@
 ### 🗄 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-0A66C2?style=for-the-badge" />
 </p>
 
