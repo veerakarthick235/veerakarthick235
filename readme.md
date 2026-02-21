@@ -63,7 +63,7 @@
 
 ### 🚀 Featured Projects
 
-- 🤖 Autonomous LeetCode AI Agent — Browser-Native Multi-Agent Code Generation System
+- 🤖 **Autonomous LeetCode AI Agent — Browser-Native Multi-Agent Code Generation System**
 - 🏛️ **Code Archeologist — Agentic Legacy Modernization System**    
 - 🤖 **Offline Code Agent — Local LLM-Based Code Assistant**   
 - 🧠 **NeuroSense AI — Emotion & Productivity Analytics System**  
