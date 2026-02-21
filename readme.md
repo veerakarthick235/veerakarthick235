@@ -78,13 +78,6 @@
 </p>
 
 ---
-
-### 📊 LeetCode Stats:
-- 1700+ solved
-- 80% acceptance
-- 157 Hard
-- Top 0.1%
-
 ### 🔥 Current & Longest Streaks
 
 <p align="center">
@@ -103,6 +96,12 @@
 
 ---
 
+### 📊 LeetCode Stats:
+- 1700+ solved
+- 80% acceptance
+- 157 Hard
+- Top 0.1%
+---
 ### 🌱 Contribution Graph
 
 <p align="center">
