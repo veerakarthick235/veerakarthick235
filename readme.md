@@ -63,11 +63,11 @@
 
 ### 🚀 Featured Projects
 
-1️⃣ 🤖 Autonomous LeetCode AI Agent ← FIRST
-2️⃣ 🏛️ Code Archeologist — Agentic Legacy Modernization System
-3️⃣ 🔍 RAG Research App — Retrieval-Augmented Generation Playground
-4️⃣ 🤖 Offline Code Agent — Local LLM-Based Code Assistant
-5️⃣ 🧠 NeuroSense AI — Emotion & Productivity Analytics System
+- 🤖 Autonomous LeetCode AI Agent — Browser-Native Multi-Agent Code Generation System
+- 🏛️ **Code Archeologist — Agentic Legacy Modernization System**    
+- 🤖 **Offline Code Agent — Local LLM-Based Code Assistant**   
+- 🧠 **NeuroSense AI — Emotion & Productivity Analytics System**  
+- 🎬 **AI Storyboard Director — AI-Powered Film Blueprint Generator**  
 
 
 ### 📊 GitHub Stats
