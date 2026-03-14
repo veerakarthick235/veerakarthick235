@@ -87,11 +87,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veerakarthick235&show_icons=true&theme=tokyonight" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=VEERAKARTHICK235&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true"/>
 </p>
 
 ---
