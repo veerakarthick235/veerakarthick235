@@ -87,12 +87,11 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VEERAKARTHICK235&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VEERAKARTHICK235&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
 ---
 
 ### 📊 LeetCode Stats:
