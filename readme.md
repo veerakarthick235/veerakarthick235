@@ -95,12 +95,13 @@
 
 ---
 
-### 📊 LeetCode Stats:
-- 1700+ solved
-- 80% acceptance
-- 157 Hard
-- Top 0.1%
----
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/veerakarthick235/">
+    <img src="https://img.shields.io/badge/LeetCode-veerakarthick235-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 ### 🌱 Contribution Graph
 
 <p align="center">
