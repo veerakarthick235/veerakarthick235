@@ -1,9 +1,9 @@
 [//]: # (USERNAME: veerakarthick235)
 [//]: # (THEME: tokyonight)
 # 👋 Hi, I'm KARTHICKKUMAR S 🚀
-### AI Engineer
+### AI Developer
 
- - AI Engineer building Agentic AI and RAG systems using LLMs, FastAPI, and Next.js.
+ - AI Developer building Agentic AI and RAG systems using LLMs, FastAPI, and Next.js.
 ---
 
 ### 🎯 Quick Facts
