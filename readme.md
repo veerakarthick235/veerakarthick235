@@ -95,6 +95,14 @@
 
 ---
 
+### 🌱 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEERAKARTHICK235&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
 ### 📊 LeetCode Stats
 
 <p align="center">
@@ -107,14 +115,6 @@
   <a href="https://leetcode.com/u/veerakarthick235/">
     <img src="https://leetcard.jacoblin.cool/veerakarthick235?theme=dark&font=Baloo&ext=contest"/>
   </a>
-</p>
-
----
-
-### 🌱 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEERAKARTHICK235&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
