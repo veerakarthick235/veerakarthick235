@@ -3,7 +3,7 @@
 # 👋 Hi, I'm KARTHICKKUMAR S 🚀
 ### AI Engineer 
 
- - AI Engineer building Agentic AI and RAG systems using LLMs, FastAPI, and Next.js.
+ - AI Engineer building Agentic AI and RAG systems using LLMs and FastAPI.
 ---
 
 ### 🎯 Quick Facts
