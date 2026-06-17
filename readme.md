@@ -1,9 +1,8 @@
-[//]: # (USERNAME: veerakarthick235)
-[//]: # (THEME: tokyonight)
 # 👋 Hi, I'm KARTHICKKUMAR S 🚀
 ### AI Engineer 
 
- - AI Engineer building Agentic AI and RAG systems using LLMs and FastAPI.
+- AI Engineer building Agentic AI and RAG systems using LLMs and FastAPI.
+
 ---
 
 ### 🎯 Quick Facts
@@ -61,14 +60,17 @@
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+---
+
 ### 🚀 Featured Projects
 
-- 🤖 **Autonomous LeetCode AI Agent — Browser-Native Multi-Agent Code Generation System**
-- 🏛️ **Code Archeologist — Agentic Legacy Modernization System**    
-- 🤖 **Offline Code Agent — Local LLM-Based Code Assistant**   
-- 🧠 **NeuroSense AI — Emotion & Productivity Analytics System**  
-- 🎬 **AI Storyboard Director — AI-Powered Film Blueprint Generator**  
+- 🤖 **Autonomous LeetCode AI Agent** — Browser-Native Multi-Agent Code Generation System
+- 🏛️ **Code Archeologist** — Agentic Legacy Modernization System  
+- 🤖 **Offline Code Agent** — Local LLM-Based Code Assistant   
+- 🧠 **NeuroSense AI** — Emotion & Productivity Analytics System  
+- 🎬 **AI Storyboard Director** — AI-Powered Film Blueprint Generator  
 
+---
 
 ### 📊 GitHub Stats
 
@@ -82,7 +84,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=veerakarthick235&theme=tokyonight&hide_border=true" />
-
 </p>
 
 ---
