@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KARTHICKKUMAR S 🚀
+# 👋 Hi, I'm KARTHICKKUMAR SIVAKUMAR 
 ### AI Engineer 
 
 - AI Engineer building Agentic AI and RAG systems using LLMs and FastAPI.
