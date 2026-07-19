@@ -75,8 +75,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://veerakarthick235.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://veerakarthick235.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://veerakarthick235.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://veerakarthick235.vercel.app/api/top-langs/?username=VEERAKTHICK235&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
 ---
